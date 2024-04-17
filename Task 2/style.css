@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(4, 29, 29);
+    background-image: url('image.png');
+    /* background-color: rgb(4, 29, 29); */
     font-family: 'Poppins', sans-serif;
  }
  .container{
@@ -10,6 +11,7 @@ body{
     margin-left: 33%;
     margin-top: 5px;
  }
+ 
  input{
     width: 270px;
     padding: 8px;
